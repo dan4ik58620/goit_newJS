@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AleksaHrevtsova/initial-repository.git"
+    "url": "https://github.com/dan4ik58620/goit_newJS.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AleksaHrevtsova/initial-repository/issues"
+    "url": "https://github.com/dan4ik58620/goit_newJS.git"
   },
-  "homepage": "https://github.com/AleksaHrevtsova/initial-repository#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
